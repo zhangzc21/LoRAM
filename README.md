@@ -4,7 +4,7 @@ The repository is still under development.
 
 ## Introduction
 
-Tired of complex spectral initialization methods that slow down your LoRA (Low-Rank Adaptation) fine-tuning? LoRAM is your solution. Our lightweight initialization scheme for LoRA simplifies the process of optimizing large models, delivering spectral-level performance without the extra computational and storage headaches.
+Tired of complex spectral initialization methods that complicate your LoRA (Low-Rank Adaptation) fine-tuning? LoRAM is your solution. Our lightweight initialization scheme for LoRA simplifies the process of optimizing large models, delivering spectral-level performance without the extra computational and storage headaches.
 
 **Why LoRAM?**
 - **Effortless Efficiency**: LoRAM ditches the cumbersome computations and storage demands of traditional spectral methods. It's a plug-and-play approach that integrates seamlessly with existing LoRA setups, saving you time and resources.
